@@ -25,3 +25,7 @@ You don't need to install Python or Pandas. If you have Docker installed, just r
 
 ```bash
 docker run cekim63/titanic-app
+```
+
+### Option 2: View the Code
+If you want to see the code behind the model, just open the `.ipynb` file in this repository. There you can see the full analysis, data cleaning steps, and the prediction logic.
